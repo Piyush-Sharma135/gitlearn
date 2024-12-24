@@ -2,3 +2,4 @@ This is file2 for git course
 Making second change
 
 add anoter data section
+adding footer notes
