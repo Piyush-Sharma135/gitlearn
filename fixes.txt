@@ -3,3 +3,4 @@ adding anoter fix
 detected and fixed second bug
 fourth bug fixed
 fifth bug found and fixed
+another fix for pink mode
